@@ -1,0 +1,4 @@
+interface:
+  display_name: "深入探索展项内容"
+  short_description: "提取重点展项，按需研究知识，并通过多路径比较深化互动体验与空间呈现"
+  default_prompt: "使用 $exhibit-content-explorer 完整提取这份文档中的重点和多媒体展项，标注出处与页码；按证据缺口选择最轻且足够的研究模式，逐项说明内容内核与深化层级，比较互动和空间路径，再深化推荐方案。"
